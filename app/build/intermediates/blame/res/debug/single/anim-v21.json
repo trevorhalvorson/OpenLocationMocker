@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

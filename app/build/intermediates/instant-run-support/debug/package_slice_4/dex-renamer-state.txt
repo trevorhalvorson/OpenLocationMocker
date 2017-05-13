@@ -1,0 +1,4 @@
+#Sat May 13 14:24:55 PDT 2017
+base.0=/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

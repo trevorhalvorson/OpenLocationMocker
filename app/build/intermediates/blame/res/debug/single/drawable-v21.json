@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/mapbox_default_bg_selector.xml",
+        "source": "/home/trevor/.android/build-cache/579b57640216bd3a7c3b4312df05e5e3923c0f16/output/res/drawable-v21/mapbox_default_bg_selector.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/drawable-v21/avd_show_password.xml"
+    }
+]

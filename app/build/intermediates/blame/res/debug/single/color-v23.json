@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

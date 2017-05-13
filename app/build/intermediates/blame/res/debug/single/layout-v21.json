@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/trevor/.android/build-cache/65fb0099126c769bc4b9196971919c462fcde6c6/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

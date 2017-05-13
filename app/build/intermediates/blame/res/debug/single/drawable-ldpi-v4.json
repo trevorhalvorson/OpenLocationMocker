@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/mapbox_info_icon_selected.png",
+        "source": "/home/trevor/.android/build-cache/579b57640216bd3a7c3b4312df05e5e3923c0f16/output/res/drawable-ldpi-v4/mapbox_info_icon_selected.png"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/mapbox_info_icon_default.png",
+        "source": "/home/trevor/.android/build-cache/579b57640216bd3a7c3b4312df05e5e3923c0f16/output/res/drawable-ldpi-v4/mapbox_info_icon_default.png"
+    }
+]

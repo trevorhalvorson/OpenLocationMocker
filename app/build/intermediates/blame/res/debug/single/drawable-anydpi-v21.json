@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_my_location.xml",
+        "source": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_my_location.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/mapbox_info_icon_default.xml",
+        "source": "/home/trevor/.android/build-cache/579b57640216bd3a7c3b4312df05e5e3923c0f16/output/res/drawable-anydpi-v21/mapbox_info_icon_default.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/trevor/.android/build-cache/9c65dfb932c139551a308a68e86b76a887ba068d/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/trevor/AndroidStudioProjects/OpenLocationMocker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/mapbox_info_icon_selected.xml",
+        "source": "/home/trevor/.android/build-cache/579b57640216bd3a7c3b4312df05e5e3923c0f16/output/res/drawable-anydpi-v21/mapbox_info_icon_selected.xml"
+    }
+]
